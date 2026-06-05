@@ -1,0 +1,5 @@
+flask==2.3.0
+requests==2.31.0
+python-dotenv==1.0.0
+kotak-neo-api==1.0.0
+pytz==2023.3
